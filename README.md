@@ -1,5 +1,5 @@
 # My Tests RestAssurredCricketTeams
-This test automation done with Java RestAssurred API. <br/> <br/>
+This test is automation done with Java RestAssurred API. <br/> <br/>
 I have created a postman mock server to mock reponse as required Json object. <br/>
 
 Please use Property file to input- file path: \src\test\java\com\org\team\ipl\resources\Teams.properties.  <br/>
